@@ -1,4 +1,6 @@
 today is i first learn git
-now let's test my first git project
+now let's test my first git broject
 
 ok,success！now i insert these words。
+
+现在，这是三个版本了。
